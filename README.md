@@ -1,7 +1,7 @@
 <h1>👋Olá! Eu sou o @leoosouza</h1>
 <ul> 
   <li>- 💻 Desvendando o desenvolvimento web</li>
-  <li>- ✏  Estudando HTML e CSS</li>
+  <li>- ✏  Estudante Web Full Stack pela Labenu</li>
   <li>- 👀 Futuro Desenvolvidor Full Stack</li>
   <li>- 📫 Contate-me no e-mail: leonardo.contatosouza@gmail.com</li>
 </ul>
