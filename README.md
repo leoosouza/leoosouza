@@ -1,6 +1,5 @@
 <h1>👋Olá! Eu sou o @leoosouza</h1>
 <ul> 
-  <li>- 💻 Desvendando o desenvolvimento web</li>
   <li>- ✏  Estudante de Análise e Desenvolvimento de Sistemas pela Unisinos</li>
   <li>- 📫 Contate-me no e-mail: leonardo.contatosouza@gmail.com</li>
 </ul>
